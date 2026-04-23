@@ -1,0 +1,18 @@
+==================================================
+----- Section 1 - 3 : Project Creation -----
+
+Editor Preferences 
+ 	Source Code : Rider Uproject, 
+	Enable Reinstancing : uncheck
+	Asset Editor open location : Main Window
+	Legal / Copyright Notice : Copyright My Name
+
+Rider Link Plugin 
+	in the game
+
+Resource Download 
+	"AttackNiagaraSystems.zip" and Migrated Niagara Systems to My Project
+	Boris Primary Impact -> Claws Material -> Two Sided
+
+==================================================
+----- Section 1 - 4 : Character Classes -----
