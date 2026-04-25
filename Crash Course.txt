@@ -40,9 +40,10 @@ IMC Movement
 ==================================================
 ----- Section 1 - 8 : Ability Actions -----
 
+==================================================
+----- Section 2 - 9 : Section 2 Intro -----
 
-
-
+GAS 시작 - Ability System Component
 
 
 
