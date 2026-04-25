@@ -33,3 +33,7 @@ IMC Movement
 			S - Swizzle (YXZ), Negate
 			A - Negate
 			D - No Modifiers
+
+==================================================
+----- Section 1 - 7 : Player Controller -----
+
