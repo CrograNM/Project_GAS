@@ -45,7 +45,12 @@ IMC Movement
 
 GAS 시작 - Ability System Component
 
+==================================================
+----- Section 2 - 10 : GAS Core Parts -----
 
-
-
-
+Ability System Component (ASC) 라는 뇌가
+Gameplay Ability (GA, 능력) 를 실행하고, 
+Gameplay Effect (GE, 효과) 로 
+Attribute(스탯) 를 바꾸며, 
+Gameplay Cue (GC, 큐)	 로 화면에 보여주고, 
+이 모든 과정은 Tag 로 제어됩니다.
