@@ -16,3 +16,20 @@ Resource Download
 
 ==================================================
 ----- Section 1 - 4 : Character Classes -----
+
+==================================================
+----- Section 1 - 5 : Character Blueprint -----
+
+==================================================
+----- Section 1 - 6 : Enhanced Input -----
+
+IA_Jump
+IA_Look : Axis2D
+IA_Move : Axis2D
+
+IMC Movement
+	IA Look : 	Negate (Y only)
+	IA Move : 	W - Swizzle (YXZ)
+			S - Swizzle (YXZ), Negate
+			A - Negate
+			D - No Modifiers
